@@ -1,0 +1,4 @@
+com/synechron/ishmael/wordcounter/controller/WordCounterController.class
+com/synechron/ishmael/wordcounter/service/WordCounter.class
+com/synechron/ishmael/wordcounter/service/Translator.class
+com/synechron/ishmael/wordcounter/WordcounterApplication.class
